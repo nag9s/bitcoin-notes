@@ -2,5 +2,9 @@ why it is considered as Cash and why it got the value in the first place ?
 
 Popular
 
-  Jaxx , Coinbase
+Jaxx , Coinbase
+
+Refunds are not supported , what developments happening in that area ??
+
+who owns the block chain, could there be any chances for it to get tampered , implications ?
 
