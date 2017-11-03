@@ -10,5 +10,21 @@ who owns the block chain, could there be any chances for it to get tampered , im
 
 How the first block got created in the first place ?
 
- Genesis Block is the first block .
+   Genesis Block is the first block and it should be perfect ....
+
+
+
+Wa
+
+
+
+
+
+18 types of nodes
+
+   -- data nodes
+
+  -- miner nodes
+
+
 
